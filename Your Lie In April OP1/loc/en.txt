@@ -1,0 +1,5 @@
+{
+    "menu_jukebox_hikaru_nara" : "Hikaru Nara",
+    "menu_jukebox_screen_hikaru_nara" : "Hikaru Nara
+"
+}
