@@ -1,9 +1,0 @@
- <?xml version="1.0"?>
-
--<table name="hikaru_nara">
-
-     <Localization default="en.txt" directory="loc"/>
-
-     <MenuMusic source="sounds/menu.ogg" id="hikaru_nara"/>
-
-  </table>
